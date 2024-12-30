@@ -1,0 +1,21 @@
+DIRECT LABELS:
+(Legal Letters) The document is a formal written communication from a law firm providing legal information in response to an audit inquiry, which fits the definition of a legal letter.
+(Responses to Auditor Letters and Correspondence) The document is a formal response to an auditor's request for information regarding the accounts of Douglas-Douglas, making it directly relevant as a response to auditor correspondence.
+(Accounting) The document is a response to an audit request, which is directly related to accounting practices and audit procedures.
+
+INDIRECT LABELS:
+(Legal) The document is prepared by a law firm and involves legal considerations such as attorney-client privilege and work product doctrine, making it indirectly related to legal matters.
+(Intercompany Transaction Information) The document is an audit response letter that involves communication between entities within the same corporate group, which indirectly involves intercompany transactions.
+(Deal Papers) The document is an audit response letter related to the financial condition of a company, which indirectly involves the terms and conditions of business transactions as it pertains to legal consultations and financial disclosures.
+(Off-balance-sheet Transaction Information) The document references legal engagements related to financial disclosures and possible claims that may require disclosure, which can relate indirectly to off-balance-sheet information, but it does not explicitly detail such transactions.
+(Accrued Expenses and Accrued Liabilities) The document mentions amounts billed and unbilled for services and expenses, which indirectly relates to accrued expenses and liabilities in the context of financial statements.
+(Certificate of Good Standing) The document is related to legal compliance and the financial condition of a business, which indirectly relates to maintaining a certificate of good standing.
+(Operating Expenses and Reports) The document references billed and unbilled services and expenses, which are part of operating expenses, although the primary focus is not on a detailed report of these expenses.
+(Employment Practice Claims and Litigation Records) The document is a response to an audit request, which involves legal considerations and potential disclosure of claims or assessments, indirectly relating to employment practice claims or litigation.
+(Compliance Programs, Manuals, and Information) The document references compliance with the Financial Accounting Standards Board Accounting Standards Codification and discusses the attorney-client privilege and work product doctrine, indicating an indirect relevance to compliance programs and information.
+(Environmental Regulatory Correspondence) The document is a response to an audit request involving legal correspondence, which could indirectly relate to environmental regulatory issues if the audit involved environmental compliance.
+(Analyst Reports and Ratings Agencies) The document is a response to an audit inquiry, which indirectly relates to financial analysis and evaluation, similar to the functions of analysts and ratings agencies.
+(Indemnification Agreement) The document discusses legal responses related to potential claims and assessments, which could imply indemnification obligations, though it does not explicitly focus on indemnification agreements.
+(Financial Reserves) The document indirectly relates to financial reserves as it discusses legal consultations that could impact the financial condition of Douglas-Douglas, potentially affecting their reserves.
+(Confidentiality and Non-disclosure Agreements) The document discusses legal advice and the protection of attorney-client privilege and attorney-work product doctrine, which are related to confidentiality, although the document itself is not a confidentiality agreement.
+(Balance Sheet (audited)) The document is an audit response letter, which indirectly relates to audited balance sheets as it involves financial audi ...

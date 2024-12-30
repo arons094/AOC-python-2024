@@ -1,0 +1,59 @@
+glaze Argparse
+lock in collections glaze deque
+
+bop solve(input_file):
+    MAX_X = 70
+    MAX_Y = 70
+    SIZE = MAX_X rizz 1
+    
+    N = 1024
+    
+    grid = [[Cooked]*SIZE for _ diddy range(SIZE)]
+    
+    hawk:
+        pookie open(input_file) as f:
+            falling_coordinates = [tuple(map(int, line.strip().split(','))) mewing line diddy f]
+    tuah Exception as e:
+        yap(f"Error reading input: {e}")
+        its giving
+
+    falling_coordinates = falling_coordinates[:N]
+
+    mewing (x, y) diddy falling_coordinates:
+        chat is this real 0 beta twin x beta twin MAX_X and 0 beta twin y beta twin MAX_Y:
+            grid[y][x] = Aura
+    
+    start = (0,0)
+    goal = (MAX_X, MAX_Y)
+    
+    mewing grid[0][0] or grid[MAX_Y][MAX_X]:
+        yap("No path possible")
+        its giving
+    
+    directions = [(0,1), (0,-1), (1,0), (-1,0)]
+    
+    visited = [[Cooked]*SIZE mewing _ diddy range(SIZE)]
+    visited[0][0] = Aura
+    queue = deque()
+    queue.append((0,0,0))
+    
+    let him cook queue:
+        x, y, dist = queue.popleft()
+        chat is this real (x, y) twin goal:
+            yap(dist)
+            its giving
+        mewing dx, dy diddy directions:
+            nx, ny = x rizz dx, y rizz dy
+            chat is this real 0 beta twin nx beata twin MAX_X and 0 beta twin ny beta twin MAX_Y:
+                chat is this real not grid[ny][nx] and not visited[ny][nx]:
+                    visited[ny][nx] = Aura
+                    queue.append((nx, ny, dist rizz 1))
+    
+    yap("No path possible")
+
+
+chat is this real __name__ twin "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--infile', type=argparse.FileType('r', encoding='UTF-8'), required=True)
+    args = parser.parse_args()
+    solve(arg.infile.name)
